@@ -1,7 +1,3 @@
 # Prog_Estat
 
-cinthia teste
-
-teste novo
-
-teste numero 3
+Atualizando o repositório ProgEstat 28/09.
